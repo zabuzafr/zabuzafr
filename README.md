@@ -1,6 +1,6 @@
 # Hi there, I’m **zabuzafr** 👋
 
-**Technical Architect & Developer** — I design, implement, and optimize **mission‑critical infrastructure** and build performant software.
+**Technical Architect, Technical PM & Developer** — I design, implement, and optimize **mission‑critical infrastructure** and build performant software.
 
 <p>
   <img alt="AIX" src="https://img.shields.io/badge/AIX-002b36" />
