@@ -1,6 +1,6 @@
 # Hi there, I’m **zabuzafr** 👋
 
-**Technical Architect, Technical PM & Developer** — I design, implement, and optimize **mission‑critical infrastructure** and build performant software.
+**Technical Architect & Developer** — I design, implement, and optimize **mission‑critical infrastructure** and build performant software.
 
 <p>
   <img alt="AIX" src="https://img.shields.io/badge/AIX-002b36" />
@@ -48,6 +48,22 @@ J’ai conçu une **plateforme cloud PME** (Proxmox + OpenStack) permettant des 
 * **IoT/Embedded:** Raspberry Pi, Arduino • DC monitoring & home automation
 * **Security & Alerts:** PCI‑DSS aligned controls and alerting
 
+## 🧩 Technical PM / Program Management
+
+* **Outcomes & Roadmaps** — OKRs, quarterly planning, milestone tracking, critical path
+* **Agile delivery** — Scrum/Kanban ceremonies, backlog health, estimation, throughput/lead‑time
+* **Risk & Dependencies** — RAID logs, risk burndown, dependency mapping, change management
+* **Stakeholders & Vendors** — alignment, decision logs (ADR), RACI, vendor coordination & SLAs
+* **Security & Compliance** — PCI‑DSS alignment, access reviews, audit‑ready documentation
+* **SRE / Ops alignment** — SLAs · SLO/SLI · incident response & post‑mortems · runbooks & on‑call
+* **Tooling** — Jira/Confluence, GitHub Projects, Notion, Miro, Grafana
+
+**Selected PM achievements**
+
+* Coordinated **SAP/DB2** workloads on **HA clusters (AIX/PowerVM/HACMP)** → higher availability, smoother cutovers
+* Led application **Linux → FreeBSD porting** across teams → improved performance & compatibility
+* Delivered an **SMB cloud stack** (**Proxmox + OpenStack**) → scalable & cost‑efficient services
+
 ## 🧭 What I do
 
 * Architect, build and run **HA clusters** and **critical workloads**
@@ -59,9 +75,7 @@ J’ai conçu une **plateforme cloud PME** (Proxmox + OpenStack) permettant des 
 
 ## 🗂️ Selected missions
 
-* **Allianz-Trade — Technical Architect** · Spectrum Protect/TSM, PowerVM/AIX, Linux, AWS, SAN (HPE/Bocade). → **Stronger DR**
-* **ENIM — Technical Architect** · AIX/Linux design for Oracle on PowerVM → **Standardized** environments, secure migrations
-* **STET — Technical Architect** · Spectrum Protect/TSM, PowerVM/AIX, SAN (HDS/IBM/Brocade). → **Stronger DR**, **Oracle perf optimizations**
+* **STET — Technical Architect** · Spectrum Protect/TSM, PowerVM/AIX, SAN (HDS/IBM). → **Stronger DR**, **Oracle perf optimizations**
 * **ENIM — Technical Architect** · AIX/Linux design for Oracle on PowerVM → **Standardized** environments, secure migrations
 * **PMU — IBM PowerVM AIX/GPFS Expert** · DB2 PureScale tuning (CPU/mem affinity, GPFS) → **Lower latency**, **higher capacity**
 * **Silca — Cloud Capacity Planner** · Capacity plans (AIX P7/P8, Linux) → **Forecasts & optimization guidance**
@@ -82,7 +96,8 @@ J’ai conçu une **plateforme cloud PME** (Proxmox + OpenStack) permettant des 
 
 * GitHub: **[@zabuzafr](https://github.com/zabuzafr)**
 * Website: **[https://zabuzafr.github.io](https://zabuzafr.github.io)**
-* Email: **[contact@zabuzafr.dev](mailto:pierrejacques.mimifir@gmail.com)** 
+* Email: **[contact@zabuzafr.dev](mailto:contact@zabuzafr.dev)** *(example — replace if needed)*
+
 <!-- Optional: Quick stats widgets (uncomment if you want them)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabuzafr&layout=compact)
