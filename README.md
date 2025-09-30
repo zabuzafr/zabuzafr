@@ -1,5 +1,3 @@
-Voici une version corrigée et harmonisée de ton README, avec quelques fautes d’orthographe et incohérences corrigées, et une meilleure fluidité en anglais comme en français. J’ai aussi uniformisé certaines majuscules (AWS au lieu de Aws, Huawei au lieu de Huaway, etc.) et simplifié des répétitions.
-
 ---
 
 # Hi there, I’m **zabuzafr** (MIMIFIR Pierre-Jacques) 👋
@@ -124,5 +122,3 @@ J’ai conçu une **plateforme cloud PME** (Proxmox + OpenStack) permettant des 
 > *Thanks for stopping by — feel free to open an issue or start a discussion if you’d like to talk infra, HA, or porting Linux → FreeBSD.*
 
 ---
-
-Veux-tu que je te propose aussi une **version plus courte et percutante** (résumée) pour que ton profil soit plus lisible rapidement, ou préfères-tu garder ce format très détaillé ?
