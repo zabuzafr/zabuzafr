@@ -179,11 +179,11 @@ form button:hover{filter:brightness(1.05)}
       </div>
       <div class="card">
         <h3>Email</h3>
-        <p class="small"><a href="mailto:contact@zabuzafr.dev">contact@zabuzafr.dev</a> (exemple)</p>
+        <p class="small"><a href="mailto:pzabuza@proton.me">contact@zabuzafr.dev</a> (exemple)</p>
       </div>
       <div class="card">
         <h3>Formulaire</h3>
-        <form action="https://formspree.io/f/VOUS-REMPLACEZ-CET-ID" method="POST">
+        <form action="https://formspree.io/f/MMMMM" method="POST">
           <label>Votre email</label>
           <input type="email" name="email" required>
           <label>Message</label>
