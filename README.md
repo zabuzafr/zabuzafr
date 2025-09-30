@@ -1,6 +1,6 @@
 # Hi there, I’m **zabuzafr** 👋
 
-**Technical Architect & Developer** — I design, implement, and optimize **mission‑critical infrastructure** and build performant software.
+**System Specialist · Technical Architect & Developer** — I design, implement, and optimize **mission‑critical infrastructure**, and I build performant software. I deliver **architecture**, **development**, and **hands‑on system administration**, with deep expertise in **backups & storage** (Spectrum Protect/TSM, SAN).
 
 <p>
   <img alt="AIX" src="https://img.shields.io/badge/AIX-002b36" />
@@ -24,6 +24,7 @@
 
 ## 🇬🇧 About me
 
+**System specialist** — architecture, development and **system administration**, with deep expertise in **backups & storage** (Spectrum Protect/TSM, SAN).
 I design, implement, and optimize **mission‑critical infrastructure**. Advanced expertise in **IBM AIX**, **PowerVM**, and **HACMP/PowerHA** high‑availability clusters; contributions to large‑scale, complex environments (including **SAP**, **DB2 PureScale**) and **zero‑downtime migrations**.
 
 On the software side, I’m proficient in **C/C++** and **Java**, with a focus on **porting applications from Linux to FreeBSD** while improving performance and compatibility. I also build solutions for **data centers** and **home automation**, integrating **photovoltaic inverters** with **Raspberry Pi** and **Arduino**.
@@ -32,6 +33,7 @@ Recently I designed an **SMB‑friendly cloud stack** based on **Proxmox** and *
 
 ## 🇫🇷 À propos
 
+**Spécialiste systèmes** — architecture, développement et **administration systèmes**, avec expertise en **sauvegardes & stockage** (Spectrum Protect/TSM, SAN).
 Je conçois, déploie et optimise des **infrastructures critiques**. Expertise **IBM AIX**, **PowerVM** et **HACMP/PowerHA** (haute dispo), interventions sur des environnements complexes (dont **SAP**, **DB2 PureScale**) et **migrations** avec objectifs de continuité de service.
 
 Côté développement, je maîtrise **C/C++** et **Java**, avec une spécialité dans le **portage Linux → FreeBSD**, en améliorant performances et compatibilité. Je développe aussi des solutions pour **datacenters** et **domotique** (intégration **onduleurs photovoltaïques** sur **Raspberry Pi** / **Arduino**).
@@ -42,6 +44,7 @@ J’ai conçu une **plateforme cloud PME** (Proxmox + OpenStack) permettant des 
 
 ## 🔧 Core skills
 
+* **Systems:** AIX/Linux system administration • backups & storage operations (Spectrum Protect/TSM, SAN)
 * **Software:** C/C++, Java • Linux → FreeBSD porting • perf/compat tuning
 * **Critical Infra:** AIX, PowerVM, HACMP/PowerHA • SAN (Hitachi, IBM)
 * **Cloud & Virt:** Proxmox, OpenStack • workload migrations
@@ -96,7 +99,7 @@ J’ai conçu une **plateforme cloud PME** (Proxmox + OpenStack) permettant des 
 
 * GitHub: **[@zabuzafr](https://github.com/zabuzafr)**
 * Website: **[https://zabuzafr.github.io](https://zabuzafr.github.io)**
-* Email: **[contact@zabuzafr.dev](mailto:contact@zabuzafr.dev)** *(example — replace if needed)*
+* Email: **[contact@zabuzafr.dev](mailto:pierrejacques.mimifir@gmail.com)** 
 
 <!-- Optional: Quick stats widgets (uncomment if you want them)
 
