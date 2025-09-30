@@ -82,8 +82,7 @@ J’ai conçu une **plateforme cloud PME** (Proxmox + OpenStack) permettant des 
 
 * GitHub: **[@zabuzafr](https://github.com/zabuzafr)**
 * Website: **[https://zabuzafr.github.io](https://zabuzafr.github.io)**
-* Email: **[contact@zabuzafr.dev](mailto:pierrejacques.mimifir@gmail.com)** *(example — replace if needed)*
-
+* Email: **[contact@zabuzafr.dev](mailto:pierrejacques.mimifir@gmail.com)** 
 <!-- Optional: Quick stats widgets (uncomment if you want them)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabuzafr&layout=compact)
