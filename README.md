@@ -106,8 +106,8 @@ J’ai conçu une **plateforme cloud PME** (Proxmox + OpenStack) permettant des 
 ## 📫 Contact
 
 * GitHub: **[@zabuzafr](https://github.com/zabuzafr)**  
-* Website: **[zabuzafr.github.io](https://zabuzafr.github.io)**  
-* Email: **[contact@zabuzafr.dev](mailto:contact@zabuzafr.dev)**  
+* Website: **[zabuzafr.github.io](https://shanaconsulting.com)**  
+* Email: **[contact@zabuzafr.dev](mailto:zabuzagithub.groovy668@passinbox.com)**  
 
 <!-- Optional: Quick stats widgets (uncomment if you want them)
 
